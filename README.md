@@ -7,7 +7,7 @@
 넘쳐나는 실물 책을 체계적으로 관리하고 싶지만, 수작업으로 목록을 만드는 데 어려움을 겪는 사용자들을 위해 개발되었습니다. 사용자는 책장 사진 업로드만으로 간편하게 자신의 서재를 데이터베이스화하고, 언제 어디서든 스마트폰으로 소장 도서를 확인하고 검색할 수 있습니다.
 
 이 프로젝트는 **객체 인식(Object Detection)** 과 **광학 문자 인식(OCR)** AI 모듈을 핵심으로, 이를 실제 사용자가 쓸 수 있는 서비스로 만들기 위한 **백엔드 서버, 데이터베이스, 안드로이드 앱**을 통합 개발하는 것을 목표로 합니다.
-**관련 레포지토리:** [AI_Librarian_App (Client)](https://github.com/JungYoonWu/_AILibrarianApp/tree/main)
+- **관련 레포지토리:** [AI_Librarian_App (Client)](https://github.com/JungYoonWu/_AILibrarianApp/tree/main)
 ## 2. 주요 기능
 
 - **사용자별 데이터 관리:** 사용자별로 독립된 책장 정보를 저장하고 관리합니다.
